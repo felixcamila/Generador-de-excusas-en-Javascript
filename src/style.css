@@ -4,4 +4,5 @@ h1 {
   font-size: 59px;
   display: flex;
   margin-top: 20%;
+  justify-content: center;
 }
