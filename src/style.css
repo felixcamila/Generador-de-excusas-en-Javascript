@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+h1 {
+  font-size: 59px;
+  display: flex;
+  margin-top: 20%;
+}
